@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "more_tools:item/netherite_big_shovel_lvl_2"
+  }
+}

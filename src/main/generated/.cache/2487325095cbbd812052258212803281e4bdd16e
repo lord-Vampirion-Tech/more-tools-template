@@ -1,0 +1,4 @@
+// 1.21.1	2025-02-28T09:30:46.5297369	More Tools/Tags for minecraft:block
+ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data\more_tools\tags\block\incorrect_for_copper_tool.json
+ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data\more_tools\tags\block\incorrect_for_amethyst_tool.json
+82362cfbd1836db13c7e9d36c8712821e795ac55 data\more_tools\tags\block\multi_tool_mineable.json

@@ -1,0 +1,15 @@
+// 1.21.1	2025-02-28T09:30:46.5354526	More Tools/Tags for minecraft:item
+0fe5119d3add0753348c9dd8acf38b32f9476db1 data\minecraft\tags\item\axes.json
+d27ff076c346251bb8beac6c7353d6590e60fda3 data\more_tools\tags\item\omny_tools.json
+d1bf2e0c4560ee0a391136f38a332fe4b487c325 data\more_tools\tags\item\cleavers.json
+4bbaafbc7f9ce806d69f9380c3ea4d9286f753ea data\minecraft\tags\item\enchantable\mining.json
+e138d472e14d7e19ceb34c2bbacc2a444d0d0858 data\minecraft\tags\item\hoes.json
+edb15119ed355c564f3d58a51cf53adfe8c3adc9 data\minecraft\tags\item\enchantable\sharp_weapon.json
+4ae7954638e23e40ad38b324280fe62b357efbec data\more_tools\tags\item\big_tools.json
+52e11ca653ddeb19ace474a6256594c463ce1bc2 data\more_tools\tags\item\hammers.json
+e7882bac46229c7f05204c59cefdf20c76b6327c data\more_tools\tags\item\big_shovels.json
+45008c4201581fb069e318b144ed818a1c963892 data\minecraft\tags\item\shovels.json
+5118396c8fa25f1d3850d9fb381998047a9f1136 data\minecraft\tags\item\pickaxes.json
+f4656643c2a5ba276c5c470ffa35f13476cdf59e data\minecraft\tags\item\swords.json
+776867409b96a92da9baa15d1cab78e53f3d0c09 data\more_tools\tags\item\big_hoes.json
+4bbaafbc7f9ce806d69f9380c3ea4d9286f753ea data\minecraft\tags\item\enchantable\durability.json
